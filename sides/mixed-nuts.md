@@ -1,5 +1,5 @@
 # Recipe name
-EDITED
+EDITED, 2nd edit in the new-recipe branch
 
 ## Ingredients
 
