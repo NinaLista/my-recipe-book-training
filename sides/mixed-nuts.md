@@ -1,5 +1,5 @@
 # Recipe name
-<EDITED>
+EDITED
 
 ## Ingredients
 
